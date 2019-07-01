@@ -1,0 +1,14 @@
+www.ribice.ba
+Hackernews
+reddit/r/programming
+reddit/r/learnprogramming
+reddit/r/technology
+reddit/r/coding
+reddit/r/compsci
+IEEE
+ArsTechnica
+Martin Fowler
+Jeff Atwood
+Mark Reinhold
+stevehanov.ca
+https://www.joelonsoftware.com/
