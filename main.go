@@ -17,7 +17,10 @@ func main() {
 
 	http.HandleFunc("/feed", func(w http.ResponseWriter, r *http.Request) {
 		w.Header().Set("Access-Control-Allow-Origin", "*")
+		w.Header().Set("Content-Type", "application/xml")
+
 		f, _ := feeds.GenerateCombinedFeed()
+		// Sanitize?
 		fmt.Fprintf(w, f)
 	})
 
