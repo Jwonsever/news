@@ -13,3 +13,6 @@ Mark Reinhold
 stevehanov.ca
 https://www.joelonsoftware.com/
 http://jwonsever.com/wp/?feed=rss2
+https://blog.golang.org/
+https://blog.patricktriest.com
+https://blog.sgmansfield.com
